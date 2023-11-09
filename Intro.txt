@@ -1,0 +1,17 @@
+javascript is executed in web browser which is used in this modern technologies.
+
+It can be run on web browser , web browser consists of javascript engine which helps to convert
+the source code to machine code
+
+It executes js file in execution phase
+     It consists of two phases 
+        memory creation
+        code execution
+
+memory creation phase creates memory for the variables and functions.
+
+code execution phase executes the code line by line which js is sychronous single threaded 
+Language
+
+
+
